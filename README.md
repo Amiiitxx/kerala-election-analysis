@@ -25,7 +25,7 @@ This project is an interactive Excel dashboard analyzing the 2024 Kerala Lok Sab
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]("C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Election_dash.png")
 
 ## 📈 Key Insights
 
