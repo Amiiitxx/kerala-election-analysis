@@ -6,7 +6,7 @@ This project is an interactive Excel dashboard analyzing the 2024 Kerala Lok Sab
 
 ## 📊 Features
 
-* Constituency analysis (Mavelikkara)
+* Constituency analysis (KERALA)
 * Candidate comparison (UDF, LDF, NDA)
 * Voter turnout insights
 * Vote share visualization (2019 vs 2024)
@@ -28,8 +28,6 @@ This project is an interactive Excel dashboard analyzing the 2024 Kerala Lok Sab
 ![Dashboard]("C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Election_dash.png")
 
 ## 📈 Key Insights
-
-* UDF candidate Kodikunnil Suresh shows strong performance
 * High voter turnout in the constituency
 * Clear comparison between major political fronts
 
